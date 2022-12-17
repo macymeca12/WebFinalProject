@@ -6,11 +6,11 @@
 }
 body {
   /* background-color: plum; */
-  background-size: cover;
+  /* background-size: cover;
 
   height: 100vh;
   padding: 0;
-  margin: 0;
+  margin: 0; */
   background-image: url(./space.gif);
 }
 .header {
